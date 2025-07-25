@@ -1,5 +1,5 @@
 # BlackCat1-Disabler
-It's Python Script and Program for Disabling BlackCat1 Driver from Launching!!! Enjoy to use this!!
+It's Python Script and Program for Disabling BlackCat1 Driver(AntiCheat from Nexus for Games on PC) from Launching!!! Enjoy to use this!!
 
 ## Donations
 
