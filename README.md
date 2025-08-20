@@ -1,5 +1,5 @@
 # BlackCat1-Disabler
-It's Python Script and Program for Disabling BlackCat1 Driver(AntiCheat from Nexon for Games(as Blue Archive) on PC) from Launching!!! Enjoy to use this!!
+It's Python Script and Program for Disabling BlackCat1 Driver(AntiCheat from Nexon for Games(as Blue Archive) on PC) from Auto Launching or when Game is Successfully Opened and Launched!!! Enjoy to use this!!
 
 <details close>
 <summary>Pls Open If Not Worked!!!</summary>
