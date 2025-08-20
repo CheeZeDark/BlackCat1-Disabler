@@ -6,6 +6,8 @@ It's Python Script and Program for Disabling BlackCat1 Driver(AntiCheat from Nex
   If not Worked, You need download C++ Runtime All-In-One!!! Thank you for opening this!!!
 </details>
 
+[Join to My Discord Server](https://discord.gg/3UFJqWsEsk)
+
 ## Donations
 
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
